@@ -24,12 +24,12 @@
 </p>
 
 
-<div>
+<!-- <div>
 <a href="https://github-readme-stats.vercel.app/api?username=GreySamson95&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=GreySamson95&hide=contribs&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GreySamson95&layout=compact">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreySamson95&layout=compact" />
-</a>
+</a> -->
 </div>
 
